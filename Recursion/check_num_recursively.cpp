@@ -5,8 +5,21 @@ Input Format :
 Line 1 : An Integer N i.e. size of array
 Line 2 : N integers which are elements of the array, separated by spaces
 Line 3 : Integer x
+
 Output Format :
 'true' or 'false'
+
+Constraints :
+1 <= N <= 10^3
+
+Sample Input 1 :
+3
+9 8 10
+8
+
+Sample Output 1 :
+true
+
 */
 
 #include<iostream>
