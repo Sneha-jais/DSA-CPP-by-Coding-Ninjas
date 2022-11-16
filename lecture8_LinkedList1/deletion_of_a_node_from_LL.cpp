@@ -7,7 +7,6 @@ Sample Input 1 :
 3 4 5 2 6 1 9 -1
 3
 
-
 Sample Input 2 :
 2
 3 4 5 2 6 1 9 -1
@@ -18,7 +17,6 @@ Sample Input 2 :
 Sample Output 2 :
 4 5 2 6 1 9
 10 20 30 40 50 60
-
 */
 
 
