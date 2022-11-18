@@ -15,6 +15,7 @@ public:
     }
 };
 
+
 Node *takeInput()
 {
 
