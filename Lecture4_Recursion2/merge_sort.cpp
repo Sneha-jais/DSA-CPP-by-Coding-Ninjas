@@ -4,10 +4,8 @@ Change in the input array itself. So no need to return or print anything.
 Input format :
 Line 1 : Integer n i.e. Array size
 Line 2 : Array elements (separated by space)
-
 Output format :
 Array elements in increasing order (separated by space)
-
 Constraints :
 1 <= n <= 10^3
 
